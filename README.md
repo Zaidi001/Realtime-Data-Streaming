@@ -1,13 +1,4 @@
 # Realtime Data Streaming With TCP Socket, Apache Spark, OpenAI LLM, Kafka and Elasticsearch | End-to-End Data Engineering Project
-
-## Table of Contents
-- [Introduction](#introduction)
-- [System Architecture](#system-architecture)
-- [What You'll Learn](#what-youll-learn)
-- [Technologies](#technologies)
-- [Getting Started](#getting-started)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
-
 ## Introduction
 
 This project serves as a comprehensive guide to building an end-to-end data engineering pipeline using TCP/IP Socket, Apache Spark, OpenAI LLM, Kafka and Elasticsearch. It covers each stage from data acquisition, processing, sentiment analysis with ChatGPT, production to kafka topic and connection to elasticsearch.
